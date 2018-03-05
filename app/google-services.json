@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "409376540827",
+    "firebase_url": "https://shakeapp-a9d82.firebaseio.com",
+    "project_id": "shakeapp-a9d82",
+    "storage_bucket": "shakeapp-a9d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409376540827:android:a04a6ee7648791d5",
+        "android_client_info": {
+          "package_name": "com.shakeApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409376540827-1tpr9il23kce6a5v5f2rb7afb8kldb27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shakeApp",
+            "certificate_hash": "cd0229787bab94970149c59b0a16c314e29e6f71"
+          }
+        },
+        {
+          "client_id": "409376540827-4de97aa10jgncji47721tlag09453mq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shakeApp",
+            "certificate_hash": "e4511a469c4a387ce8ba9f789b9a30c6f14787f0"
+          }
+        },
+        {
+          "client_id": "409376540827-28pgbgq7kv425vds2divs31u900195f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApwO573XQyJwvEtliM0CLLG37jMXAgvmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409376540827-28pgbgq7kv425vds2divs31u900195f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

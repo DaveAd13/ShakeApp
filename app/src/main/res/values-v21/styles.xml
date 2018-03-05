@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+    </style>
+
+    <style name="NewDialog">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:divider">#00FFFFFF</item>
+        <item name="android:dividerHeight">10dp</item>
+        <item name="android:radius">3dp</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="android:colorPrimaryDark">#66FFFFFF</item>
+    </style>
+
+    <style name="spinnerDropDownItemStyle" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+        <item name="android:background">#66FFFFFF</item>
+    </style>
+
+
+
+</resources>

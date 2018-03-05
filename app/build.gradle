@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+        }
+    }
+    compileSdkVersion 27
+    buildToolsVersion '26.0.2'
+    defaultConfig {
+        applicationId "com.shakeApp"
+        minSdkVersion 19
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0.1"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        resConfigs "en"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.google.firebase:firebase-core:11.8.0'
+    implementation 'com.android.support:appcompat-v7:27.1.0'
+    implementation 'com.github.mukeshsolanki:Android-Shared-Preferences-TinyDB-:1.0.2'
+    implementation 'com.google.firebase:firebase-ads:11.8.0'
+    implementation 'com.android.support:design:27.1.0'
+}
+apply plugin: 'com.google.gms.google-services'

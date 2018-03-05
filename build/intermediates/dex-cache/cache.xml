@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\ca4c455259d5740f453f2df9b4eb2bcebf7d2664\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_100bc1a96db8a5cc6c9f44502ef35d401e214248\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\5249f284a896cebe8c16ed8252c7430c84e84771\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52b4ed6bc750699caf33b2dcc6c76908d155ab3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\6dd6f8f17855c0bae7b2833f7643082da07cd264\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c0ae8d570ef65c377f1c51745ecf422b3c2bbee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\66a04f795d9a55365c4a3309a44c5cce4ba3b446\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0946769362e1e7f192a652b79160b7d641eaefb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_665987312825274186505d80fe4a1e5decb97059\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\154d97fec5b11be11bf7e1d1e7647384f3830aa3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_214bcff296d8f6a6e2b63eff4f33a06916898ad3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\506ac4f5c56369632c1a58eceba1a5d914e79dc2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32ef2218c096139f18b6040a39181a6bc3f7e219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\ae798d744ee416897e5ed77287146d8ae535080e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92243ddacec83f1bdee01acc78794de5bf78081a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\181f5febd3072be737835a810dafa9b86042d7db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_634451203929e5e76a7039869af7d69c69868f3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\62c49fecd29a95e9482826998d80be4870c76473\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67aaea1ef6f110804fda3ffe9cfab043cd8f0f29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\e5e40d9b6cd3639610f5c64c4a9701c03f0cf802\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a17c084cf048b97aac486981f2ff2f1959f8857\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\7caffbebde4c32895f27c6fba73bd76a399414f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1b209978126a31a8130b1af9dfda6bee66b7344\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\0d20d2c11087b578e6c1c1335f12589be334744b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_588db3c30b5909d57e1f738231854981624fcf51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\16d833797032e7431977e93cfe0cb3dd84c325aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9b861d2618fdbb5a5d70001f2636c0a7ba2308e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\f13a1ead9a78d9c625e2989ba817272069143706\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_418717734aabd788afd9ef26b319b33fd7fcac8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\10bd5f343ef4f6b7c548efeff7bb53013c81dcab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c6687a3c5d65eb6440f15e62d38e30836606f7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\af12c5f5352f249ed8140a1dd75709cf69eae6e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8a2704ff5e4b9c2715a816e3ab83dddce8f38bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\f3f32f7c1bdf8f8dbdb92f9531007f3ddf87466f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee29a21b2af39d7ae9b29adcaf1c7dff97af7b89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="432e9a1ddc450c4ae1f938c774499f9ee598ef27">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bf7d0bebd4666b0e47247a482cd5ec088ca99793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\16cec84643e106cb42beabc717a938b547833e01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efbd065404336cd5df44468e9080d70b1a71ec01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\1b4dd3583195a88f31b9ea90166b58f4f9c04a83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e625b881cd37e4aee623a9834ea3148387237266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\151b947b5dcf4fcc064172a75b77ca8ef4f22c24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb1551a4b82deab708f57b3e1dbee148c93cb5fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\edf4f4ad8fd7c36cb1b46e7af375d37722720259\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_590040bb1c5eb6742fbb972729b52f17b622fd0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_ef13ce73e818f20c32405bf98815ac89956a3b4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\77d85f5a74570153c6a94867cba2399f10ea3c02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d61411305eec552178944b2c30afda23f9902b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyampudr\.android\build-cache\bfaedddd60d0bb569de19d8b01f9d8c89f88178a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="C:\Users\Kyampudr\Desktop\Android Studio Proj\ShakeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ee475720b84286e72764b5b17a17f27368bf748\classes.dex" />
+    </item>
+
+</items>

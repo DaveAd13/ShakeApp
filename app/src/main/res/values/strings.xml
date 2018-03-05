@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Shake</string>
+    <string name="record">Record\nMove</string>
+    <string name="banner_ad_unit_id_record">ca-app-pub-8284087608066656/3734579127</string>
+    <string name="banner_ad_unit_id_settings">ca-app-pub-8284087608066656/7187573124</string>
+    <string name="settings">settings</string>
+    <string name="info">info</string>
+    <string name="start">START!</string>
+    <string name="active_when_screen_is_off">Active when screen is OFF</string>
+    <string name="service_state">Service State</string>
+    <string name="vibrate_when_move_recognized">Vibrate when move recognized</string>
+    <string name="sensor_sensitivity">Sensor sensitivity</string>
+    <string name="icon">icon</string>
+    <string name="ring">ring</string>
+    <string name="skip_but">SKIP</string>
+    <string name="disable">Disable</string>
+    <string name="run_installed_app">Run Installed App</string>
+    <string name="flashlight_on_off">FlashLight On/Off</string>
+    <string name="wifi_on_off">Wifi On/Off</string>
+    <string name="sound_on_off">Sound On/Off</string>
+    <string name="control_music_player">Control Music Player</string>
+    <string name="select_action">Select Action</string>
+    <string name="record_sound">Record Sound</string>
+    <string name="get_shake_pro">Get Shake Pro</string>
+
+
+</resources>
