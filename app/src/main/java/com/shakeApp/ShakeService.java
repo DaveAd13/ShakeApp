@@ -19,6 +19,7 @@ import android.net.wifi.WifiManager;
 import android.os.Environment;
 import android.os.IBinder;
 import android.os.PowerManager;
+import android.os.SystemClock;
 import android.os.Vibrator;
 import android.preference.PreferenceManager;
 import android.support.annotation.Nullable;
@@ -434,21 +435,23 @@ public class ShakeService extends Service implements SensorEventListener
                     launchIntent.putExtra("key", getDefaultsString(tempN + "Action", getBaseContext()));
                     launchIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                     startActivity(launchIntent);
-                    stopService(new Intent(this, ShakeService.class));
+                    SystemClock.sleep(1000);
+                    //stopService(new Intent(this, ShakeService.class));
                 }
                 else
                 {
                     Intent launchIntent = getPackageManager().getLaunchIntentForPackage(getDefaultsString(tempN + "Action", getBaseContext()));
                     launchIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                     startActivity(launchIntent);
-                    stopService(new Intent(this, ShakeService.class));
+                    SystemClock.sleep(1000);
+                    //stopService(new Intent(this, ShakeService.class));
                 }
             }
             j = 1;
             new_x.clear();
             new_y.clear();
             new_z.clear();
-            stopService(new Intent(this, ShakeService.class));
+            /*stopService(new Intent(this, ShakeService.class));
             new Timer().schedule(new TimerTask()
             {
                 @Override
@@ -456,7 +459,7 @@ public class ShakeService extends Service implements SensorEventListener
                 {
                     startService(new Intent(ShakeService.this, ShakeService.class));
                 }
-            }, 500);
+            }, 500);*/
         } else
         {
             j--;
